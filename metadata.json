@@ -1,0 +1,6 @@
+{
+  "name": "One Month Before Your Day 🌙",
+  "description": "A quiet, cinematic countdown and surprise note for Shreya, one month before October 19.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
